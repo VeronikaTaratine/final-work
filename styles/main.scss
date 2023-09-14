@@ -1,0 +1,7 @@
+@import "./reset";
+
+$black-light:#1e2124;
+.page-wrap{
+  min-height: 100vh;
+  background-color:$black-light;
+}
